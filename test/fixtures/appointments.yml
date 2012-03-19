@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: 1
+  begin_time: 2012-03-13 20:04:31
+  end_time: 2012-03-13 20:04:31
+  medic_id: 1
+  patient_id: 1
+
+two:
+  id: 1
+  begin_time: 2012-03-13 20:04:31
+  end_time: 2012-03-13 20:04:31
+  medic_id: 1
+  patient_id: 1
